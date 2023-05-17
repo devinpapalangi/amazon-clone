@@ -123,6 +123,14 @@ I would like to express my sincere gratitude to the following sources that have 
 
 I would also like to express my appreciation to all the developers, contributors, and communities whose open-source projects and discussions have enriched my understanding and enabled me to build this application.
 
+# Made Improvements
+
+In addition to the core functionality, several improvements have been made to enhance the overall user experience of the application:
+
+- **Responsive Design**: The app has been made more responsive by implementing dynamic styling using the `Get` package from the `pubspec.yaml` file. This allows the UI elements to adapt and adjust their sizes based on the device screen size, providing a consistent and visually appealing experience across different devices.
+
+These improvements have been implemented to optimize the app's user interface (UI) and enhance the user experience (UX). As the project continues to evolve, further enhancements and features will be added to ensure the app remains modern, intuitive, and user-friendly.
+
 # Future Improvements
 
 In the future, I plan to further enhance this project by focusing on improving the user interface (UI) and user experience (UX). Although the current version provides the core functionality of an Amazon clone, there is always room for refinement and polish.
@@ -130,8 +138,6 @@ In the future, I plan to further enhance this project by focusing on improving t
 Some of the areas I intend to explore for future improvements include:
 
 - **UI Enhancements:** I will work on refining the visual appearance of the application, including the layout, color scheme, typography, and overall aesthetics. This will ensure a more visually appealing and engaging user interface.
-
-- **Responsive Design:** I will strive to make the application fully responsive, optimizing it for different screen sizes and devices. This will enable a seamless and enjoyable experience for users accessing the application from various devices, including desktops, tablets, and mobile devices.
 
 - **User Experience Refinements:** I will focus on analyzing user feedback and behavior to identify areas where the user experience can be further improved. This may involve streamlining workflows, simplifying navigation, adding intuitive features, and optimizing performance.
 
