@@ -11,12 +11,6 @@ Discover a wealth of features that echo the user experience of Amazon, including
 
 Embark on your own mobile app development journey by immersing yourself in the world of "Amazon Clone App." Witness firsthand how an idea transforms into a fully functional application, empowering users and leaving a lasting impression. Join me on this exciting adventure as we embrace innovation and unlock the potential of mobile app development.
 
-
-
-
-
-
-
 # Feature
 
 1. **User**
@@ -45,6 +39,21 @@ The Product Details feature displays comprehensive information about a specific 
 
 9. **Search**
 The Search feature enables users to search for products based on keywords, categories, or other search criteria. It provides a convenient way for users to find specific products they are interested in quickly.
+
+
+# Technology Stack
+
+This project is developed using the following technologies:
+
+- **Front-end**: The front-end of the application is built with **Flutter**, a popular framework for building cross-platform mobile applications. Flutter allows for a single codebase to create both Android and iOS apps with a rich set of pre-designed UI components and a fast development workflow.
+
+- **Back-end**: The back-end of the application is powered by **Express**, a fast and minimalist web application framework for Node.js. Express provides a robust set of features for building scalable and efficient server-side applications, including routing, middleware support, and easy integration with databases.
+
+- **Database**: The project utilizes **MongoDB** as the database management system. MongoDB is a NoSQL document-oriented database that provides flexibility and scalability for handling complex data structures. It offers seamless integration with Node.js through the use of drivers and libraries.
+
+By leveraging the combination of Flutter, Express, and MongoDB, this project offers a reliable, efficient, and cross-platform solution for building a modern mobile application with a robust back-end and a flexible data storage system.
+
+
 
 ## API Reference
 
