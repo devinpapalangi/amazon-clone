@@ -43,6 +43,8 @@ The Search feature enables users to search for products based on keywords, categ
 
 # Technology Stack
 
+[![My Skills](https://skillicons.dev/icons?i=flutter,express,mongodb)](https://skillicons.dev)
+
 This project is developed using the following technologies:
 
 - **Front-end**: The front-end of the application is built with **Flutter**, a popular framework for building cross-platform mobile applications. Flutter allows for a single codebase to create both Android and iOS apps with a rich set of pre-designed UI components and a fast development workflow.
